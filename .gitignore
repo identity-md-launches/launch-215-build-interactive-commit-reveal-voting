@@ -1,0 +1,9 @@
+# Path budget: 256 bytes; see artifacts/path-budget.json.
+**/node_modules/
+**/.cache/
+**/.vite/
+**/.npm/
+**/coverage/
+**/playwright-report/
+**/test-results/
+test/scratch/
